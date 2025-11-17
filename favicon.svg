@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .box-bg { fill: #DC143C; }
+      .bird-white { fill: #FFFFFF; }
+      .bird-black { fill: #2C2C2C; }
+    </style>
+  </defs>
+  <!-- Simple red box with rounded corners -->
+  <rect x="0" y="0" width="16" height="16" rx="3" ry="3" class="box-bg"/>
+
+</svg>
