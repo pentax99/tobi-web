@@ -1,34 +1,230 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
+    <!-- Startseite -->
     <url>
         <loc>https://www.tobiassiggelkow.com/</loc>
         <priority>1.0</priority>
     </url>
 
+    <!-- Project 1 -->
     <url>
         <loc>https://www.tobiassiggelkow.com/project1.html</loc>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 1/BW_EstablisherCOlor11.png</image:loc>
+            <image:caption>Tobias Siggelkow – Establisher Color</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 1/BW_MainHall13.png</image:loc>
+            <image:caption>Tobias Siggelkow – Main Hall</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 1/BW_CrabTank5.png</image:loc>
+            <image:caption>Tobias Siggelkow – Crab Tank</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 1/BW_CrabCoaster7.png</image:loc>
+            <image:caption>Tobias Siggelkow – Crab Coaster</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 1/BW_Sushi5.png</image:loc>
+            <image:caption>Tobias Siggelkow – Sushi</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 1/TobiasSiggelkow6.png</image:loc>
+            <image:caption>Tobias Siggelkow – Monster</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 1/TobiasSiggelkow7.png</image:loc>
+            <image:caption>Tobias Siggelkow – Pier</image:caption>
+        </image:image>
     </url>
 
+    <!-- Project 2 -->
     <url>
         <loc>https://www.tobiassiggelkow.com/project2.html</loc>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 2/TaskForce_Painting1.png</image:loc>
+            <image:caption>Tobias Siggelkow – TaskForce Painting 1</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 2/TaskForce_Painting2.png</image:loc>
+            <image:caption>Tobias Siggelkow – TaskForce Painting 2</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 2/TaskForce_Painting3.png</image:loc>
+            <image:caption>Tobias Siggelkow – TaskForce Painting 3</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 2/TaskForce_Painting4.png</image:loc>
+            <image:caption>Tobias Siggelkow – TaskForce Painting 4</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 2/TaskForce_Painting5.png</image:loc>
+            <image:caption>Tobias Siggelkow – TaskForce Painting 5</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 2/TaskForce_Painting7.png</image:loc>
+            <image:caption>Tobias Siggelkow – TaskForce Painting 7</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 2/TaskForce_Painting11.png</image:loc>
+            <image:caption>Tobias Siggelkow – TaskForce Painting 11</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 2/TaskForce_Painting12.png</image:loc>
+            <image:caption>Tobias Siggelkow – TaskForce Painting 12</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 2/TaskForce_Painting13.png</image:loc>
+            <image:caption>Tobias Siggelkow – TaskForce Painting 13</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 2/TaskForce_Painting14.png</image:loc>
+            <image:caption>Tobias Siggelkow – TaskForce Painting 14</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 2/TaskForce_Painting15.png</image:loc>
+            <image:caption>Tobias Siggelkow – TaskForce Painting 15</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 2/TaskForce_Painting16.png</image:loc>
+            <image:caption>Tobias Siggelkow – TaskForce Painting 16</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 2/TaskForce_Painting17.png</image:loc>
+            <image:caption>Tobias Siggelkow – TaskForce Painting 17</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 2/TaskForce_Painting20.png</image:loc>
+            <image:caption>Tobias Siggelkow – TaskForce Painting 20</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 2/TaskForce_Painting21.png</image:loc>
+            <image:caption>Tobias Siggelkow – TaskForce Painting 21</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 2/TaskForce_Painting22.png</image:loc>
+            <image:caption>Tobias Siggelkow – TaskForce Painting 22</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 2/TaskForce_Painting23.png</image:loc>
+            <image:caption>Tobias Siggelkow – TaskForce Painting 23</image:caption>
+        </image:image>
     </url>
 
+    <!-- Project 3 -->
     <url>
         <loc>https://www.tobiassiggelkow.com/project3.html</loc>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 3/Garten1.jpg</image:loc>
+            <image:caption>Tobias Siggelkow – Garten 1</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 3/Garten2.jpg</image:loc>
+            <image:caption>Tobias Siggelkow – Garten 2</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 3/Garten2_3.jpg</image:loc>
+            <image:caption>Tobias Siggelkow – Garten 2_3</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 3/Garten3.jpg</image:loc>
+            <image:caption>Tobias Siggelkow – Garten 3</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 3/Garten4.jpg</image:loc>
+            <image:caption>Tobias Siggelkow – Garten 4</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 3/Garten5.jpg</image:loc>
+            <image:caption>Tobias Siggelkow – Garten 5</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 3/Garten6.jpg</image:loc>
+            <image:caption>Tobias Siggelkow – Garten 6</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 3/tobias-siggelkow-gartenzwerge-shiny.jpg</image:loc>
+            <image:caption>Tobias Siggelkow – Gartenzwerge Shiny</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 3/tobias-siggelkow-gartenzwerge.jpg</image:loc>
+            <image:caption>Tobias Siggelkow – Gartenzwerge</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 3/tobias-siggelkow-props2gartenfreunde2.jpg</image:loc>
+            <image:caption>Tobias Siggelkow – Props Gartenfreunde</image:caption>
+        </image:image>
     </url>
 
+    <!-- Project 4 -->
     <url>
         <loc>https://www.tobiassiggelkow.com/project4.html</loc>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 4/1.png</image:loc>
+            <image:caption>Tobias Siggelkow – Mouse Concept Art 1</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 4/2.png</image:loc>
+            <image:caption>Tobias Siggelkow – Mouse Concept Art 2</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 4/3.png</image:loc>
+            <image:caption>Tobias Siggelkow – Mouse Concept Art 3</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 4/4.png</image:loc>
+            <image:caption>Tobias Siggelkow – Mouse Concept Art 4</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Project 4/Render05.png</image:loc>
+            <image:caption>Tobias Siggelkow – Mouse Concept Art 5</image:caption>
+        </image:image>
     </url>
 
+    <!-- Personal Work -->
     <url>
         <loc>https://www.tobiassiggelkow.com/personal-work.html</loc>
         <priority>0.7</priority>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Personal Work/5932BCF4-2079-4116-B9ED-2FA5AB999154.jpeg</image:loc>
+            <image:caption>Tobias Siggelkow – Plein Air 1</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Personal Work/final.png</image:loc>
+            <image:caption>Tobias Siggelkow – Paperwork</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Personal Work/IMG_0534.png</image:loc>
+            <image:caption>Tobias Siggelkow – Plein Air 2</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Personal Work/IMG_0547.png</image:loc>
+            <image:caption>Tobias Siggelkow – Plein Air 3</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Personal Work/romance.png</image:loc>
+            <image:caption>Tobias Siggelkow – True Romance</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Personal Work/Kürbis2.png</image:loc>
+            <image:caption>Tobias Siggelkow – Harry Potter</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Personal Work/IMG_0511.jpeg</image:loc>
+            <image:caption>Tobias Siggelkow – Jurassic Park</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tobiassiggelkow.com/images/Personal Work/IMG_8882.png</image:loc>
+            <image:caption>Tobias Siggelkow – True Romance</image:caption>
+        </image:image>
     </url>
 
 </urlset>
+
