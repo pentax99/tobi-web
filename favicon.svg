@@ -1,12 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs>
-    <style>
-      .box-bg { fill: #DC143C; }
-      .bird-white { fill: #FFFFFF; }
-      .bird-black { fill: #2C2C2C; }
-    </style>
-  </defs>
-  <!-- Simple red box with rounded corners -->
-  <rect x="0" y="0" width="16" height="16" rx="3" ry="3" class="box-bg"/>
-
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200"><rect width="200" height="200" fill="url('#gradient')"></rect><defs><linearGradient id="gradient" gradientTransform="rotate(45 0.5 0.5)"><stop offset="0%" stop-color="#db3d08"></stop><stop offset="100%" stop-color="#db3d08"></stop></linearGradient></defs><g><g fill="#ffffff" transform="matrix(8.81342086068563,0,0,8.81342086068563,70.21173127813987,157.2471873077487)" stroke="#7d836e" stroke-width="0"><path d="M1.46-13.19L4.76-13.19L4.76-10.57L6.49-10.57L6.49-8.28L4.76-8.28L4.76-3.45Q4.76-2.85 4.97-2.62Q5.19-2.38 5.82-2.38L5.82-2.38Q6.31-2.38 6.64-2.44L6.64-2.44L6.64-0.09Q5.75 0.20 4.79 0.20L4.79 0.20Q3.09 0.20 2.28-0.61Q1.46-1.41 1.46-3.04L1.46-3.04L1.46-8.28L0.12-8.28L0.12-10.57L1.46-10.57L1.46-13.19Z"></path></g></g></svg></svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>
