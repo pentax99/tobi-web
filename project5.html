@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Tobias Siggelkow</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Mobile Menu Button -->
+    <button class="mobile-btn" onclick="toggleMenu()">MENU</button>
+    
+    <!-- Mobile Menu -->
+    <div class="mobile-menu" id="mobileMenu">
+        <button class="close-btn" onclick="closeMenu()">✕</button>
+        <div class="mobile-menu-content">
+            <img src="MainLogo.png" alt="Logo" class="mobile-logo">
+            <a href="index.html" class="mobile-link">Crab Escape</a>
+            <a href="project2.html" class="mobile-link">Taskforce Querlitz</a>
+            <a href="project3.html" class="mobile-link">Gartenfreunde</a>
+            <a href="project4.html" class="mobile-link">Mouse Garage</a>
+            <a href="project1.html" class="mobile-link">Sketchbook</a>
+            <a href="about.html" class="mobile-link">About</a>
+            <a href="https://www.instagram.com/tobispaint/" target="_blank" class="mobile-link">Instagram</a>
+        </div>
+    </div>
+    
+    <!-- Left Sidebar Navigation -->
+    <nav class="sidebar-nav" id="sidebar-nav">
+        <div class="nav-content">
+            <a href="index.html" class="site-title-link">
+                <img src="MainLogo.png" alt="Tobias Siggelkow" class="site-logo">
+            </a>
+            <ul class="nav-menu">
+                <li><a href="index.html" class="nav-link active">Crab Escape</a></li>
+                <li><a href="project2.html" class="nav-link">Taskforce Querlitz</a></li>
+                <li><a href="project3.html" class="nav-link">Gartenfreunde</a></li>
+                <li><a href="project4.html" class="nav-link">Mouse Garage</a></li>
+                <li><a href="project1.html" class="nav-link">Sketchbook</a></li>
+                <li><a href="about.html" class="nav-link">About</a></li>
+                <li><a href="https://www.instagram.com/tobispaint/" target="_blank" class="nav-link nav-instagram">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
+                        <path d="M12 8a4 4 0 1 0 0 8 4 4 0 0 0 0-8z"></path>
+                        <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line>
+                    </svg>
+                </a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Main Content Area -->
+    <main class="main-content">
+        <div class="page-header">
+            <img src="images/Project 1/logo.png" alt="Crab Escape Logo" class="page-logo">
+            <p class="project-description">Original Story & Visual Development by Tobias Siggelkow</p>
+        </div>
+        
+        <div class="image-column">
+            <div class="image-item">
+                <img src="images/Project 1/BW_EstablisherCOlor11.png" alt="Project 1 - Establisher Color">
+            </div>
+            
+            <div class="image-item">
+                <img src="images/Project 1/BW_MainHall13.png" alt="Project 1 - Main Hall">
+            </div>
+            
+            <div class="image-item">
+                <img src="images/Project 1/BW_CrabTank5.png" alt="Project 1 - Crab Tank">
+            </div>
+            
+            <div class="image-item">
+                <img src="images/Project 1/BW_CrabCoaster7.png" alt="Project 1 - Crab Coaster">
+            </div>
+            
+            <div class="image-item">
+                <img src="images/Project 1/BW_Sushi5.png" alt="Project 1 - Sushi">
+            </div>
+        </div>
+    </main>
+
+    <!-- Modal for enlarged images -->
+    <div id="imageModal" class="modal">
+        <span class="close">&times;</span>
+        <img class="modal-content" id="modalImage">
+        <div id="caption"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
